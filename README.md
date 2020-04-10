@@ -1,6 +1,6 @@
 # Dinooo
 
-A bot that play Chrome's offline runner minigame for you. For when you're so bored you want to spend the day watching a bot beat its own high score while cheering for a cute pixel dinosaur.
+A bot that plays Chrome's offline runner minigame. For when you're so bored you want to spend the day watching a bot beat its own high score while cheering for a cute pixel dinosaur.
 
 # Usage
 
