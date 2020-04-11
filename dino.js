@@ -30,6 +30,11 @@
     }
   }
 
+  function start() {
+    document.body.focus();
+    key(' ', 32);
+  }
+
   function increaseSpeed() {
     if (speed < maxSpeed) speed++;
   }
@@ -48,4 +53,5 @@
 
   setInterval(control.bind(this),10);
   setInterval(increaseSpeed.bind(this), 4000);
+  setTimeout(start, 500);
 })()
