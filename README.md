@@ -13,6 +13,6 @@ A bot that plays Chrome's offline runner minigame. For when you're so bored you 
 
 ## Roadmap
 
-- [x] Self-start instead of waiting for user input
+- [x] Self-start instead of waiting for user input
 - [ ] Make into Chrome extension (obviously important)
 - [ ] Improve decision making until it can reliably break the score counter (also business-critical)
